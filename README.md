@@ -124,12 +124,7 @@ jupyter notebook notebook/Sales_Analysis.ipynb
 ### Dashboard
 Just open `dashboard/index.html` in any web browser — no server needed!
 
----
-
-## 📌 Conclusion
-
-The typical Diwali shopper is a **young, unmarried female (age 26-35)** working in the **IT sector**, living in **Uttar Pradesh or Maharashtra**, buying **Food and Clothing** products.
 
 ---
 
-*Project by: [Your Name] | Data Analysis with Python*
+*Project by: [ahmedmirza119-cell] | Data Analysis with Python*
